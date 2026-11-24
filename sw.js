@@ -1,5 +1,5 @@
 /* EmotiPET service worker: funciona offline depois da primeira visita. */
-const VERSION = 'emotipet-v1';
+const VERSION = 'emotipet-v2';
 const FONTS = 'emotipet-fonts-v1';
 const CORE = [
 "./",
